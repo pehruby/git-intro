@@ -9,3 +9,6 @@ Four score and seven years ago our fathers brought forth on this continent, a ne
 New line entered in branch (petrs_branch)
 
 One more line added. Localy in petrs_branch which has been already deleted on github.
+
+And one more again insidfe the same branch.
+
