@@ -10,5 +10,4 @@ New line entered in branch (petrs_branch)
 
 One more line added. Localy in petrs_branch which has been already deleted on github.
 
-And one more again insidfe the same branch.
 
